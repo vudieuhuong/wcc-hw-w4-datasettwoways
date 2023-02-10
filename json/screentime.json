@@ -1,0 +1,34 @@
+{
+   "screentime": [
+        {
+            "app": "instagram",
+            "amount": 4,
+            "color": "rgb(255,100,100)"
+        },
+        {
+            "app": "facebook",
+            "amount": 4,
+            "color": "rgb(100,255,100)"
+        },    
+        {
+            "app": "youtube",
+            "amount": 2,
+            "color": "rgb(100,100,255)"
+        },
+        {
+            "app": "whatsapp",
+            "amount": 2,
+            "color": "rgb(255,255,100)"
+        },
+        {
+            "app": "safari",
+            "amount": 0.5,
+            "color": "rgb(100,255,229)"
+        },
+        {
+            "app": "tiktok",
+            "amount": 0.5,
+            "color": "rgb(255,10,248))"
+        }
+    ]
+}
